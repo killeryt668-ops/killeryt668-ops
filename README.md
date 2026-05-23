@@ -29,8 +29,8 @@ Always learning, always coding — one project at a time. 🚀
 
 | Event | Venue | Sponsor |
 |-------|-------|---------|
-| 🥇 GTech Hackathon | Mentor Engineering College | Litmus7 |
-| 🥈 GTech Hackathon | Infopark, Kakkanad | Litmus7 |
+|  GTech Hackathon | Mentor Engineering College | Litmus7 |
+|  GTech Hackathon | Infopark, Kakkanad | Litmus7 |
 
 ---
 
